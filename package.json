@@ -10,8 +10,6 @@
   "author": "Chris Veness",
   "version": "2.2.1",
   "license": "MIT",
-  "type": "module",
-  "module": "./",
   "engines": {
     "node": ">=8.0.0"
   },
